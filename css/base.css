@@ -1,0 +1,19 @@
+* {
+  max-width: 100%;
+  box-sizing: border-box;
+
+}
+
+
+div {
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+  background-color: grey;
+}
+
+.everything{
+ max-width: 480px;
+  margin: 0 auto;
+  text-align: center;
+}
